@@ -1,0 +1,15 @@
+C:\Dev2013\PCWRestExample\VBNetWPFExample\bin\Debug\VBNetWPFExample.exe.config
+C:\Dev2013\PCWRestExample\VBNetWPFExample\bin\Debug\VBNetWPFExample.exe
+C:\Dev2013\PCWRestExample\VBNetWPFExample\bin\Debug\VBNetWPFExample.pdb
+C:\Dev2013\PCWRestExample\VBNetWPFExample\bin\Debug\VBNetWPFExample.xml
+C:\Dev2013\PCWRestExample\VBNetWPFExample\obj\Debug\MainWindow.baml
+C:\Dev2013\PCWRestExample\VBNetWPFExample\obj\Debug\MainWindow.g.vb
+C:\Dev2013\PCWRestExample\VBNetWPFExample\obj\Debug\Application.g.vb
+C:\Dev2013\PCWRestExample\VBNetWPFExample\obj\Debug\VBNetWPFExample_MarkupCompile.cache
+C:\Dev2013\PCWRestExample\VBNetWPFExample\obj\Debug\VBNetWPFExample.g.resources
+C:\Dev2013\PCWRestExample\VBNetWPFExample\obj\Debug\VBNetWPFExample.Resources.resources
+C:\Dev2013\PCWRestExample\VBNetWPFExample\obj\Debug\VBNetWPFExample.vbproj.GenerateResource.Cache
+C:\Dev2013\PCWRestExample\VBNetWPFExample\obj\Debug\VBNetWPFExample.exe
+C:\Dev2013\PCWRestExample\VBNetWPFExample\obj\Debug\VBNetWPFExample.xml
+C:\Dev2013\PCWRestExample\VBNetWPFExample\obj\Debug\VBNetWPFExample.pdb
+C:\Dev2013\PCWRestExample\VBNetWPFExample\bin\Debug\Newtonsoft.Json.dll

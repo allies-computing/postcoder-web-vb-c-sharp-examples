@@ -1,0 +1,14 @@
+C:\Dev2013\PCWRestExample\CSharpWPFExample\bin\Debug\CSharpWPFExample.exe.config
+C:\Dev2013\PCWRestExample\CSharpWPFExample\bin\Debug\CSharpWPFExample.exe
+C:\Dev2013\PCWRestExample\CSharpWPFExample\bin\Debug\CSharpWPFExample.pdb
+C:\Dev2013\PCWRestExample\CSharpWPFExample\obj\Debug\CSharpWPFExample.csprojResolveAssemblyReference.cache
+C:\Dev2013\PCWRestExample\CSharpWPFExample\obj\Debug\MainWindow.baml
+C:\Dev2013\PCWRestExample\CSharpWPFExample\obj\Debug\MainWindow.g.cs
+C:\Dev2013\PCWRestExample\CSharpWPFExample\obj\Debug\App.g.cs
+C:\Dev2013\PCWRestExample\CSharpWPFExample\obj\Debug\CSharpWPFExample_MarkupCompile.cache
+C:\Dev2013\PCWRestExample\CSharpWPFExample\obj\Debug\CSharpWPFExample.g.resources
+C:\Dev2013\PCWRestExample\CSharpWPFExample\obj\Debug\CSharpWPFExample.Properties.Resources.resources
+C:\Dev2013\PCWRestExample\CSharpWPFExample\obj\Debug\CSharpWPFExample.csproj.GenerateResource.Cache
+C:\Dev2013\PCWRestExample\CSharpWPFExample\obj\Debug\CSharpWPFExample.exe
+C:\Dev2013\PCWRestExample\CSharpWPFExample\obj\Debug\CSharpWPFExample.pdb
+C:\Dev2013\PCWRestExample\CSharpWPFExample\bin\Debug\Newtonsoft.Json.dll

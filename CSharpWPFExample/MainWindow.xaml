@@ -1,0 +1,30 @@
+﻿<Window x:Class="CSharpWPFExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PCW Rest C# Example" Height="535" Width="809">
+    <Grid>
+        <TextBox x:Name="search_TextBox" Height="23" Margin="104,10,90,0" TextWrapping="Wrap" Text="NR14 7PZ" VerticalAlignment="Top"/>
+        <Label Content="Search Criteria:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="23"/>
+        <Button x:Name="search_Button" Content="Search" Margin="0,10,10,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="75" Click="search_Button_Click"/>
+        <TextBox x:Name="output_TextBox" Margin="10,326,10,10" TextWrapping="Wrap" Text="Raw Return Data" VerticalScrollBarVisibility="Auto"/>
+        <ComboBox x:Name="addresses_ComboBox" Margin="104,38,90,0" VerticalAlignment="Top" SelectionChanged="addresses_ComboBox_SelectionChanged"/>
+        <TextBox x:Name="organisation_TextBox" Height="23" Margin="132,74,90,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Label Content="Organisation:" HorizontalAlignment="Left" Margin="10,74,0,0" VerticalAlignment="Top" Width="117" Height="23" HorizontalContentAlignment="Right"/>
+        <TextBox x:Name="premise_TextBox" Height="23" Margin="132,102,90,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Label Content="Premise:" HorizontalAlignment="Left" Margin="10,102,0,0" VerticalAlignment="Top" Width="117" Height="23" HorizontalContentAlignment="Right"/>
+        <TextBox x:Name="dependentStreet_TextBox" Height="23" Margin="132,130,90,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Label Content="Dependent Street:" HorizontalAlignment="Left" Margin="10,130,0,0" VerticalAlignment="Top" Width="117" Height="23" HorizontalContentAlignment="Right"/>
+        <TextBox x:Name="street_TextBox" Height="23" Margin="132,158,90,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Label Content="Street:" HorizontalAlignment="Left" Margin="10,158,0,0" VerticalAlignment="Top" Width="117" Height="23" HorizontalContentAlignment="Right"/>
+        <TextBox x:Name="doubleDependentLocality_TextBox" Height="23" Margin="132,186,90,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Label Content="Dbl Dependent Loc.:" HorizontalAlignment="Left" Margin="10,186,0,0" VerticalAlignment="Top" Width="117" Height="23" HorizontalContentAlignment="Right"/>
+        <TextBox x:Name="town_TextBox" Height="23" Margin="132,242,90,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Label Content="Town:" HorizontalAlignment="Left" Margin="10,242,0,0" VerticalAlignment="Top" Width="117" Height="23" HorizontalContentAlignment="Right"/>
+        <TextBox x:Name="county_TextBox" Height="23" Margin="132,270,90,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Label Content="County:" HorizontalAlignment="Left" Margin="10,270,0,0" VerticalAlignment="Top" Width="117" Height="23" HorizontalContentAlignment="Right"/>
+        <TextBox x:Name="postcode_TextBox" Height="23" Margin="132,298,90,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Label Content="Postcode:" HorizontalAlignment="Left" Margin="10,298,0,0" VerticalAlignment="Top" Width="117" Height="23" HorizontalContentAlignment="Right"/>
+        <TextBox x:Name="locality_TextBox" Height="23" Margin="132,214,90,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Label Content="Locality:" HorizontalAlignment="Left" Margin="10,214,0,0" VerticalAlignment="Top" Width="117" Height="23" HorizontalContentAlignment="Right"/>
+    </Grid>
+</Window>
